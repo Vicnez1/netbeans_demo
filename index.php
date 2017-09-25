@@ -17,6 +17,7 @@ and open the template in the editor.
         echo "project 2 data";
         echo "project new";
         echo "project new2";
+        echo 'in';
         for($i=1;$i<5;$i++)
         {
             echo $i;
