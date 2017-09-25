@@ -20,7 +20,7 @@ and open the template in the editor.
         echo 'in';
         for($i=1;$i<5;$i++)
         {
-            echo $i;
+            echo $i++;
         }
 
         ?>
