@@ -12,6 +12,12 @@ and open the template in the editor.
     <body>
         <?php
         // put your code here
+        
+        echo "project 1 data";
+        echo "project 2 data";
+        echo "project new";
+        echo "project new2";
+
         ?>
     </body>
 </html>
